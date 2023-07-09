@@ -115,3 +115,19 @@ push. При первом её использовании нужна
 * Отправляем свою версию в свой __GitHub__
 * На сайте __GitHub__ нажимаем кнопку <span style="color:#00FF7F">**_pull request_**
 
+# <span style="color:#FF0000">**_Команды упрощающие работу с git (изученные на семинаре_**)
+*  <span style="color:#FF1493">**_:wQ!_**</span>  - Команда которая сохраняет GIT и закрывает его принудительно
+* <span style="color:#FF1493">**_git log --oneline_**</span> - вывод лога в одну линию без лишней инфы.
+* <span style="color:#FF1493">**_git log --graph_**</span> - показывет лог ввиде ветки.
+* <span style="color:#FF1493">**_git commit -аm_ "ваш коммит"**</span> - команда добавляет изменения <span style="color:#00FF7F">*git add*</span> и добавляет к ним коментарий <span style="color:#00FF7F">*git commit -m*
+* <span style="color:#FF1493">**_git commit --amend -m_**</span> - "Новый коммит"
+* <span style="color:#FF1493">**_git checkout -b название ветки_**</span> - создание новой ветки и переход в нее.
+* <span style="color:#FF1493">**_cd название папки_**</span> - команда для вызова терминала в той папку в которой нужно работать.
+* <span style="color:#FF1493">**_cd .._** </span> - вернутся на уровень вверх.
+* <span style="color:#FF1493">**_git clone ссылка скопированная с github_**</span> -загружает репозиторий с ресурса на пк.
+* <span style="color:#FF1493">**_git push_**</span> - отправляет данные на github.
+* <span style="color:#FF1493">**_git pull_**</span> - команда тянет изменения с github и соединяет( <span style="color:#00FF7F">*git merge*</span> ) с версией на ПК
+
+
+
+
